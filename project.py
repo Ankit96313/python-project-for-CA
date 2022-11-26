@@ -1,3 +1,4 @@
+#project
 user_input=str(input("Enter a Sentence: "))
 text=user_input.split()
 a=''
